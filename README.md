@@ -1,4 +1,23 @@
-stampsource
-===========
+Stampsource : Simplifying online discussion in college
+=========
+A simple online discussion board with a gamification layer to add virtual credits as reinforcement.
 
-Online Resource Sharing for any topic with the feature of voting them to show how much reliable a resource is.
+Features:
+  - Designed on MVC pattern
+  - PHP + Mysql
+  - Bootstrap for UI
+ 
+
+To run
+------
+
+```
+Requirement: PHP 5 or above
+```
+```
+Setup for environment parametres in /config/config.php
+```
+License
+----
+
+MIT
