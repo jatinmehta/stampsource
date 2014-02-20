@@ -1,5 +1,8 @@
-Stampsource : Simplifying online discussion in college
+Stampsource 
 =========
+Simplifying online discussion in college
+------------------------------------------
+
 A simple online discussion board with a gamification layer to add virtual credits as reinforcement.
 
 Features:
